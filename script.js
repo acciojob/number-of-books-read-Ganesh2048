@@ -17,6 +17,7 @@ const library = [
 ];
 
 const numberOfBooksRead = () => {
+	2
   // write your code here
 };
 
